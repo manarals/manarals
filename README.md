@@ -1,12 +1,9 @@
 <p align="center">
-  <img src="https://github.com/manarals/manarals/blob/main/1687702075254.jpg" alt="My Profile Image" width="500"/>
+  <img src="https://github.com/manarals/manarals/blob/main/1687702075254.jpg" alt="My Profile Image" width="1000"/>
 </p>
 
 <h3 align="center">Artificial Intelligence Developer</h3>
 
-<p align="center">
-  <img src="https://github.com/manarals/manarals/blob/main/1687702075254.jpg" alt="My Profile Image" width="200"/>
-</p>
 
 - 👯 I’m looking to collaborate on **Innovative AI Projects**
 
