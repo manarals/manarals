@@ -1,6 +1,6 @@
 <h1 align="center">About: Manar Alsayed</h1>
 <h3 align="center">Artificial Intelligence Developer</h3>
-
+![My Profile Image](https://github.com/manarals/manarals/blob/main/1687702075254.jpg)
 - 👯 I’m looking to collaborate on **Innovative AI Projects**
 
 - 💬 Ask me about **AI**
