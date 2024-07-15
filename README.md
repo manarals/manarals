@@ -1,4 +1,7 @@
-<h1 align="center">About: Manar Alsayed</h1>
+<p align="center">
+  <img src="https://github.com/manarals/manarals/blob/main/1687702075254.jpg" alt="My Profile Image" width="500"/>
+</p>
+
 <h3 align="center">Artificial Intelligence Developer</h3>
 
 <p align="center">
