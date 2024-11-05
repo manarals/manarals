@@ -1,18 +1,3 @@
-<p align="center">
-  <img src="https://github.com/manarals/manarals/blob/main/1687702075254.jpg" alt="My Profile Image" width="1000"/>
-</p>
-
-<h2 align="center">Artificial Intelligence Developer</h2>
-
-- 👯 I’m looking to collaborate on **Innovative AI Projects**
-- 💬 Ask me about **AI**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/manarmalsayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manarmalsayed" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/manar-alkhalifah-alsayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manar-alkhalifah-alsayed" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
@@ -37,7 +22,7 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
   </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Tableau_Logo.png/512px-Tableau_Logo.png" alt="Tableau" width="40" height="40"/>
