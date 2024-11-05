@@ -37,15 +37,7 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Microsoft_Excel_logo.svg" alt="Excel" width="40" height="40"/> 
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Microsoft_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/en/e/e3/Tableau_Logo.svg" alt="Tableau" width="40" height="40"/> 
-  </a> 
+
 </p>
 
 </p>
